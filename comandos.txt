@@ -1,0 +1,6 @@
+java -jar /home/gabrielly/projetos/compiladores/alguma-lexico/target/alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar /home/gabrielly/projetos/compiladores/alguma-lexico/src/main/java/br/ufscar/dc/compiladores/alguma/lexico/teste.txt
+
+para rodar o 
+
+para rodar o corretor
+java -jar /home/gabrielly/projetos/compiladores/compiladores-corretor-automatico/target/compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar /home/gabrielly/projetos/compiladores/alguma-lexico/target/alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc temp casos-de-teste/ "805757" t1
