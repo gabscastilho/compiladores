@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.ufscar.dc.compiladores.alguma.lexico.AppTest" time="0.051" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.ufscar.dc.compiladores.alguma.lexico.AppTest" time="0.045" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-22-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire/surefirebooter3134670803571499200.jar /home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire 2024-04-14T15-14-36_075-jvmRun1 surefire7104293926536442788tmp surefire_010503563304539754909tmp"/>
+    <property name="sun.java.command" value="/home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire/surefirebooter4064399152819043670.jar /home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire 2024-04-14T19-05-39_544-jvmRun1 surefire10630834593132351757tmp surefire_018444834405823362859tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/gabrielly/projetos/compiladores/alguma-lexico/target/test-classes:/home/gabrielly/projetos/compiladores/alguma-lexico/target/classes:/home/gabrielly/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/gabrielly/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/gabrielly/.m2/repository/org/antlr/antlr4/4.12.0/antlr4-4.12.0-complete.jar:/home/gabrielly/.m2/repository/org/antlr/antlr4-runtime/4.12.0/antlr4-runtime-4.12.0.jar:/home/gabrielly/.m2/repository/org/antlr/antlr-runtime/3.5.3/antlr-runtime-3.5.3.jar:/home/gabrielly/.m2/repository/org/antlr/ST4/4.3.4/ST4-4.3.4.jar:/home/gabrielly/.m2/repository/org/abego/treelayout/org.abego.treelayout.core/1.0.3/org.abego.treelayout.core-1.0.3.jar:/home/gabrielly/.m2/repository/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire/surefirebooter3134670803571499200.jar"/>
+    <property name="surefire.real.class.path" value="/home/gabrielly/projetos/compiladores/alguma-lexico/target/surefire/surefirebooter4064399152819043670.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22-ea+16-Ubuntu-1"/>
     <property name="user.name" value="gabrielly"/>
@@ -53,5 +53,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="br.ufscar.dc.compiladores.alguma.lexico.AppTest" time="0.006"/>
+  <testcase name="shouldAnswerWithTrue" classname="br.ufscar.dc.compiladores.alguma.lexico.AppTest" time="0.009"/>
 </testsuite>
